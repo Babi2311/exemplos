@@ -1,0 +1,14 @@
+C:\_top.noite\exercicio.c#\bin\Debug\net8.0\exercicio.c#.exe
+C:\_top.noite\exercicio.c#\bin\Debug\net8.0\exercicio.c#.deps.json
+C:\_top.noite\exercicio.c#\bin\Debug\net8.0\exercicio.c#.runtimeconfig.json
+C:\_top.noite\exercicio.c#\bin\Debug\net8.0\exercicio.c#.dll
+C:\_top.noite\exercicio.c#\bin\Debug\net8.0\exercicio.c#.pdb
+C:\_top.noite\exercicio.c#\obj\Debug\net8.0\exercicio.c#.GeneratedMSBuildEditorConfig.editorconfig
+C:\_top.noite\exercicio.c#\obj\Debug\net8.0\exercicio.c#.AssemblyInfoInputs.cache
+C:\_top.noite\exercicio.c#\obj\Debug\net8.0\exercicio.c#.AssemblyInfo.cs
+C:\_top.noite\exercicio.c#\obj\Debug\net8.0\exercicio.c#.csproj.CoreCompileInputs.cache
+C:\_top.noite\exercicio.c#\obj\Debug\net8.0\exercicio.c#.dll
+C:\_top.noite\exercicio.c#\obj\Debug\net8.0\refint\exercicio.c#.dll
+C:\_top.noite\exercicio.c#\obj\Debug\net8.0\exercicio.c#.pdb
+C:\_top.noite\exercicio.c#\obj\Debug\net8.0\exercicio.c#.genruntimeconfig.cache
+C:\_top.noite\exercicio.c#\obj\Debug\net8.0\ref\exercicio.c#.dll

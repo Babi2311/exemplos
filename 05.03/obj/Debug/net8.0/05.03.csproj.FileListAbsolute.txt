@@ -1,0 +1,14 @@
+C:\_top.noite\05.03\bin\Debug\net8.0\05.03.exe
+C:\_top.noite\05.03\bin\Debug\net8.0\05.03.deps.json
+C:\_top.noite\05.03\bin\Debug\net8.0\05.03.runtimeconfig.json
+C:\_top.noite\05.03\bin\Debug\net8.0\05.03.dll
+C:\_top.noite\05.03\bin\Debug\net8.0\05.03.pdb
+C:\_top.noite\05.03\obj\Debug\net8.0\05.03.GeneratedMSBuildEditorConfig.editorconfig
+C:\_top.noite\05.03\obj\Debug\net8.0\05.03.AssemblyInfoInputs.cache
+C:\_top.noite\05.03\obj\Debug\net8.0\05.03.AssemblyInfo.cs
+C:\_top.noite\05.03\obj\Debug\net8.0\05.03.csproj.CoreCompileInputs.cache
+C:\_top.noite\05.03\obj\Debug\net8.0\05.03.dll
+C:\_top.noite\05.03\obj\Debug\net8.0\refint\05.03.dll
+C:\_top.noite\05.03\obj\Debug\net8.0\05.03.pdb
+C:\_top.noite\05.03\obj\Debug\net8.0\05.03.genruntimeconfig.cache
+C:\_top.noite\05.03\obj\Debug\net8.0\ref\05.03.dll
